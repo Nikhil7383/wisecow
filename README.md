@@ -38,9 +38,11 @@ docker run -p 4499:4499 wisecow
 kubectl apply -f k8s/deployment.yaml
 kubectl apply -f k8s/service.yaml
 minikube service wisecow-service
+```
 
 ---
 
 ## 📸 Output Screenshot
 <img width="1914" height="890" alt="image" src="https://github.com/user-attachments/assets/2150bd93-0a2a-4212-97aa-3e7d26235596" />
+
 
